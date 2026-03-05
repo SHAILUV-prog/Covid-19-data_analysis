@@ -52,8 +52,22 @@ In this project, the following analyses were done:
 * Some countries showed higher death rates compared to their total confirmed cases.
 
 ---
-
 ## Visualizations
+
+### Top 10 Countries with Highest Confirmed Cases
+![Top Confirmed Cases](top_confirmed_cases.png)
+
+### Top 10 Countries with Highest Deaths
+![Top Deaths](top_deaths.png)
+
+### Global COVID Case Trend
+![Time Series](time_series_confirmed.png)
+
+### Recovery Rate vs Confirmed Cases
+![Recovery Rate](recovery_rate_vs_confirmed.png)
+
+### Correlation Heatmap
+![Heatmap](correlation_heatmap.png)
 
 Several visualizations were created during the analysis, including:
 
